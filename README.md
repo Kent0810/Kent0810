@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anh Kent</h1>
-<h3 align="center">I'm a passionate developer from VietNam</h3>
+<h3 align="center">A passionate developer from VietNam</h3>
 
 - 🔭 I’m currently working on [HCM Waste Management System 2.0](https://github.com/Kent0810/HCM-Waste-Management-System)
 
